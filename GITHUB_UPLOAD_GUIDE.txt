@@ -1,0 +1,14 @@
+FoodieGo GitHub upload checklist
+
+1. Sign in at https://github.com/
+2. Click the + menu -> New repository.
+3. Repository name: FoodieGo-Flutter-Food-Delivery-App
+4. Add a description such as: "Food delivery mobile app built with Flutter and Dart."
+5. Choose Public if you want anyone to view it for presentations (check with your college/team if applicable).
+6. Create repository.
+7. Click "uploading an existing file".
+8. Upload the contents of this folder (not the ZIP file itself): README.md, lib/, apk/, pubspec.yaml, .gitignore, analysis_options.yaml, and CREATE_PLATFORM_FILES.bat.
+9. Commit the files.
+10. Open the repository page and confirm the README displays correctly.
+
+Tip: GitHub's browser upload is fine for ordinary source files. If the APK is rejected or too large for browser upload, use GitHub Releases to attach the APK instead. GitHub limits individual files in a normal Git repository to 100 MB; the included APK is around 21 MB.
